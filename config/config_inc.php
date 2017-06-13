@@ -36,9 +36,9 @@
 
 # --- Database Configuration ---
 $g_hostname      = '127.0.0.1';
-$g_db_username   = 'root';
-$g_db_password   = 'root';
-$g_database_name = 'bugtracker';
+$g_db_username   = 'u197245873_bugs';
+$g_db_password   = '3Sa1FO4XYu7y';
+$g_database_name = 'u197245873_bugs';
 $g_db_type       = 'mysqli';
 
 $g_default_timezone       = 'Asia/Kolkata';
